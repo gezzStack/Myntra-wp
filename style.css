@@ -10,9 +10,10 @@
     justify-content: space-evenly;
     align-items: center;
     box-shadow: 4px 12px 0 rgba(0,0,0,.05);
+    position: relative;
 }
 /*  navigation-bar: logo */
-img {
+.nav-img {
     height: 36px;
     width: 53px;
     margin: 0rem 2rem;
@@ -95,4 +96,17 @@ p>sup {
     margin-top: 5px;
     font-weight: 700;
     font-size: 14px;
+}
+/* Main */
+.main-img {
+    height: 400px;
+    width: 100%;
+    margin-top: 3.5rem;
+}
+.main-brand {
+    color: #3e4152;
+    font-size: 28px;
+    margin: 70px 0px 10px 30px;
+    word-spacing: 4px;
+    letter-spacing: 0.15em;
 }
