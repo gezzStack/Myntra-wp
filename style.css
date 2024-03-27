@@ -12,7 +12,7 @@
     display: flex;
     justify-content: space-evenly;
     align-items: center;
-    box-shadow: 4px 12px 0 rgba(0,0,0,.05);
+    box-shadow: 4px 12px 8px rgba(0,0,0,.05);
     z-index: 10;
     
 }
@@ -105,7 +105,7 @@ p>sup {
 .main-img {
     height: 400px;
     width: 100%;
-    margin-top: 3.5rem;
+    margin-top: 7.5rem;
 }
 .main-brand {
     color: #3e4152;
@@ -123,3 +123,16 @@ img {
     height: auto;
     width: 16%;
 }
+
+/* footer */
+.contacts {
+    background-color: #fafbfc;
+    height: 430px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.policies {
+    background-color: #fafbfc;
+}
+
