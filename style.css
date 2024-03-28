@@ -28,7 +28,7 @@
     height: 80px;
     justify-content: center;
     align-items: center;
-    font-weight: 700;
+    font-weight: 600;
     font-size: 14px;
 }
 .men {
@@ -98,7 +98,7 @@ p>sup {
 }
 .pro-p {
     margin-top: 5px;
-    font-weight: 700;
+    font-weight: 600;
     font-size: 14px;
 }
 /* Main */
@@ -109,7 +109,7 @@ p>sup {
 }
 .main-brand {
     color: #3e4152;
-    font-size: 28px;
+    font-size: 25px;
     margin: 80px 0px 10px 30px;
     word-spacing: 4px;
     letter-spacing: 0.15em;
@@ -134,5 +134,72 @@ img {
 }
 .policies {
     background-color: #fafbfc;
+    width: 162px;
 }
-
+div>p {
+    color: #696b79;
+    background-color: #fafbfc;
+    display: block;
+    margin: 4px;
+    font-size: 15px;
+}
+#bold {
+    color: #282c3f;
+    background-color: #fafbfc;
+}
+.on-shop {
+    width: 175px;
+    background-color: #fafbfc;
+}
+.dload {
+    width: 380px;
+    background-color: #fafbfc;
+}
+.services {
+    width: 250px;
+    background-color: #fafbfc;
+    
+}
+.stores {
+    height: 42px;
+    width: 130px;
+    margin-top: 2px;
+}
+h5 {
+    font-size: 12px;
+}
+.ft {
+    height: 20px;
+    width: 20px;
+    margin-top: 2px;
+}
+.yt{
+    height: 20px;
+    width: 28px;
+    margin-top: 2px;
+}
+.ig{
+    height: 22px;
+    width: 20px;
+    margin-top: 2px;
+}
+.s-img {
+    width: 140px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+.og {
+    display: flex;
+}
+.rt {
+    display: flex;
+}
+.og-img {
+    height: 40px;
+    width: 48px;
+}
+.rt-img {
+    height: 49px;
+    width: 48px;
+}
